@@ -1,0 +1,7 @@
+//log files
+*.log,
+//IDE files
+.vscode/,
+//dependancies
+node_modules/
+.DS_Store
