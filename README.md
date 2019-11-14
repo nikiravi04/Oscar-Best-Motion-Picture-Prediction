@@ -20,3 +20,10 @@ We use the following models to predict Oscar
 - Random Forests
 - Artificial Neural Networks
 We evaluate each of the models to see accuracy and try to better the prediction results
+
+## References 
+data_csv -> https://datahub.io/rufuspollock/oscars-nominees-and-winners
+ratings_movieslens, movies_movieslens -> http://files.grouplens.org/datasets/movielens/ml-latest- README.html
+title.ratings, title.basics -> https://www.imdb.com/interfaces/ https://archive.ics.uci.edu/ml/datasets/Movie
+https://en.wikipedia.org/wiki/Academy_Awards
+https://oscar.go.com/ https://towardsdatascience.com/approximating-the-minds-of-2019-oscars-voters-using-neural- networks-b922f3d6864c
